@@ -39,13 +39,8 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Matt Sharp's GitHub Stats" src="https://github-readme-stats.matt-sharp.vercel.app/api?username=matt-sharp&show_icons=true&hide_border=true" />
+[![Matt Sharp's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sharp)](https://github.com/matt-sharp/github-readme-stats)
 
-  [![Matt Sharp's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sharp)](https://github.com/matt-sharp/github-readme-stats)
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/matthew-sharp-3b729929
