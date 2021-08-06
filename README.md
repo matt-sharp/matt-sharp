@@ -1,4 +1,4 @@
-### Hi there, I'm Matt and I'm a Data Scientist and long distance runner!! 👋
+### Hi there, I'm Matt and I'm a Data Scientist and long distance runner!! 🏃
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
