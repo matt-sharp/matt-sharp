@@ -27,7 +27,7 @@
 
 ---
 
-![Matt Sharp's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sharp&show_icons=true&theme=prussian)
+![Matt Sharp's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sharp&show_icons=true&theme=prussian&include_all_commits=true)
 
 
 [linkedin]: https://www.linkedin.com/in/matthew-sharp-3b729929
