@@ -1,8 +1,8 @@
 ### Hi there, I'm Matt and I'm a Data Scientist and long distance runner!! 🏃
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently studying Machine Learning Engineering for Production (MLOps) Specialization
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
